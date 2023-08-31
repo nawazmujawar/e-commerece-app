@@ -10,6 +10,8 @@
   "author": "Nawaz Mujawar",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^1.5.0",
+    "buffer": "^6.0.3",
     "parcel": "^2.9.3",
     "process": "^0.11.10"
   },
